@@ -17,3 +17,7 @@ tasks {
         gradleVersion = "7.6"
     }
 }
+
+dependencies {
+    implementation("com.google.truth:truth:1.1.3")
+}
