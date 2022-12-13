@@ -20,4 +20,5 @@ tasks {
 
 dependencies {
     implementation("com.google.truth:truth:1.1.3")
+    implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.4.1")
 }
